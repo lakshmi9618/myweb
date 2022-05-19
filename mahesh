@@ -1,7 +1,22 @@
 he is also belongs to devops team
+<<<<<<< HEAD
 kubernetes
 docker
 ansible
 maven
 chef
 puppet
+=======
+kubernetes
+docker
+ansible
+maven
+chef
+puppet
+sonar
+>>>>>>> refs/remotes/origin/master
+he belongs to Devops team
+tools include
+kubernetes
+docker
+maven
